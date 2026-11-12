@@ -1,0 +1,13 @@
+CAMERA SHUTTER CHECKER — COPYRIGHT NOTICE
+
+Project creator and maintainer: Emin Mirkarimov
+Copyright (c) 2026 Emin Mirkarimov. All rights reserved.
+
+No license is granted to copy, modify, redistribute, sublicense, or create derivative
+works from this project except where applicable law provides otherwise or the
+copyright holder gives prior written permission.
+
+This notice applies to the original project materials authored for Camera Shutter
+Checker. Third-party build tools and GitHub Actions remain subject to their own
+licenses and terms. PS2EXE is used only as an optional build-time tool and is not
+included in this source package.
