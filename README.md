@@ -16,11 +16,11 @@
 
 ### ⬇️ Download the Windows application
 
-**[Download the latest EXE from GitHub Releases](https://github.com/YOUR_GITHUB_USERNAME/CameraShutterChecker/releases/latest)**
+**[Download the latest EXE from GitHub Releases](https://github.com/eminmirkarimov/CameraShutterChecker/releases/latest)**
 
-<sub>Replace `YOUR_GITHUB_USERNAME` with the GitHub account that owns this repository after creating it.</sub>
 
-[Русская версия документации](README_RU.md) · [How to publish this project](GITHUB_SETUP_RU.md) · [Changelog](CHANGELOG.md)
+
+[Русская версия документации](README_RU.md)
 
 </div>
 
@@ -120,10 +120,8 @@ The shutter-count concept itself varies: mechanical shutter actuations, electron
 **Direct download URL template:**
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/CameraShutterChecker/releases/latest/download/CameraShutterChecker.exe
+https://github.com/eminmirkarimov/CameraShutterChecker/releases/latest/download/CameraShutterChecker.exe
 ```
-
-Replace `YOUR_GITHUB_USERNAME` with the repository owner's GitHub username.
 
 > [!NOTE]
 > The release EXE will be available after the maintainer builds and publishes it. The source repository and the downloadable binary are separate: source code belongs in the repository; the compiled EXE belongs in a GitHub Release asset.
