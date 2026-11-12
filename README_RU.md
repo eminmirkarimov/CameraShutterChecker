@@ -16,11 +16,10 @@
 
 ### ⬇️ Скачать программу для Windows
 
-**[Скачать последнюю версию EXE из GitHub Releases](https://github.com/YOUR_GITHUB_USERNAME/CameraShutterChecker/releases/latest)**
+**[Скачать последнюю версию EXE из GitHub Releases](https://github.com/eminmirkarimov/CameraShutterChecker/releases/latest)**
 
-<sub>После создания репозитория замените `YOUR_GITHUB_USERNAME` на свой логин GitHub.</sub>
 
-[English documentation](README.md) · [Подробная инструкция по GitHub](GITHUB_SETUP_RU.md) · [История версий](CHANGELOG.md)
+[English documentation](README.md)
 
 </div>
 
@@ -121,10 +120,8 @@ Canon **не заявляется как полностью поддержива
 **Шаблон прямой ссылки на скачивание:**
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/CameraShutterChecker/releases/latest/download/CameraShutterChecker.exe
+https://github.com/eminmirkarimov/CameraShutterChecker/releases/latest/download/CameraShutterChecker.exe
 ```
-
-Замените `YOUR_GITHUB_USERNAME` на логин владельца репозитория.
 
 > [!NOTE]
 > EXE появится в Releases после того, как разработчик соберёт и опубликует его. Исходники хранятся в репозитории, а готовый EXE прикрепляется отдельно к релизу.
